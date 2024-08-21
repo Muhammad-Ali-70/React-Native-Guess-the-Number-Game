@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View style={styles.mainContainer}>
-      <Text style={{ fontSize: 25, color: "black" }}>This is Home</Text>
+      <Text style={{ fontSize: 25, color: "black" }}>This is Home Sign</Text>
     </View>
   )
 }
